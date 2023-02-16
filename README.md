@@ -23,7 +23,7 @@
 </p>
 
 ## 🤔 About
-<img align="right" height="125" width="175" alt="Coding await the night" src="https://media1.giphy.com/media/ggK04fdPVARRtH8w7G/giphy.gif?cid=ecf05e47su98x2xoo991779raob7oh98uv1xp9fc3u67xo2f&rid=giphy.gif">
+<img align="right" height="125" width="175" alt="Coding await the night" src="img/coding the night away.gif">
 
 > I'll give you the TL;DR
 
