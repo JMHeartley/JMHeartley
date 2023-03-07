@@ -14,8 +14,6 @@
         <img src="https://img.shields.io/badge/-My%20Packages-%23CB3737?style=flat&logo=npm&logoColor=FFFFFF" alt="NPM Badge"></a>
     <a href="https://justinsportfol.io/" target="_blank">
         <img src="https://img.shields.io/badge/-%20Portfolio%20Site-1A8893?style=flat&logo=codereview&logoColor=FFFFFF" alt="Portfolio Badge"></a>
-    <a href="https://www.linkedin.com/in/jmheartley/" target="_blank">
-        <img src="https://img.shields.io/badge/-%20Let's%20Connect-0072b1?style=flat&logo=linkedin" alt="Linkedin Badge"></a>
     <a href="mailto:heartleyjm@gmail.com?subject=Portfolio%20Inquiry&body=Hi%20Justin%2C%0A%0AI%20saw%20your%20GitHub%20bio%20and%20wanted%20to%20reach%20out%20because..." target="_blank">
         <img src="https://img.shields.io/badge/-Say%20Hello-FFFFFF?style=flat&logo=gmail" alt="Gmail Badge"></a>
     <a href="https://bandcamp.com/malikheartley" target="_blank">
