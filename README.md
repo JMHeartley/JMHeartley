@@ -33,7 +33,7 @@ and want to further my knowledge of the cloud and get more advanced certificatio
 - ℹ️ It's theorized that Yoga was invented so that meditators could combat the effects of sitting in one place for a long time while meditating. I use it to combat the effects of sitting while coding for a long time 😆
 
 ### ✨ Random Justin Trivia
-- I like to listen to [barber beats](https://bandcamp.com/malikheartley) while I code.
+- I like to listen to [barber beats](https://bandcamp.com/whiteteejusty) while I code.
 - I consider myself an Animehead, not an Otaku.
 - I enjoy video games but not online ones (getting pwned by a 14-year-old hurts).
 - I have a sticker of [Toffee the Dog](https://jmheartley.itch.io/work-with-me-here-full-game) on my fridge.
